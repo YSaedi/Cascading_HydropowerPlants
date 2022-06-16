@@ -5,6 +5,8 @@ Cascading Hydropower Plants
 ------------------------------------
 
 This documentation represents Modelling cascading hydropower plants using storage equations provided in OSeMOSYS_2017_11_08.
+Documentation is available on [Read the Docs](https://cascading-hydropowerplants.readthedocs.io/en/latest/).
+
 
 
 
